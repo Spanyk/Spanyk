@@ -24,7 +24,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 <br>
-<div display="inline-block">
+<div align="center">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-3e394d?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-3e394d?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3e394d?style=for-the-badge&logo=javascript&logoColor=white">
