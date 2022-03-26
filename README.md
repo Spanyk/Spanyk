@@ -1,4 +1,4 @@
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Spanyk&repo=Spanyk&theme=react)](https://github.com/Spanyk/Spanyk)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Spanyk&repo=Spanyk&theme=react)](https:///github-readme-stats/Spanyk/Spanyk)
 
 <h1 align="center"> Hello, I'm Paulo Augusto 🥸.<br> In the web Spanyk 🤖 </h1>
   
@@ -34,4 +34,4 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/-Git-3e394d?style=for-the-badge&logo=git">
 </div>
 <hr>
-   ![Snake animation](https://github.com/spanyk/Spanyk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Spanyk/Spanyk/blob/output/github-contribution-grid-snake.gif)
