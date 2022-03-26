@@ -34,5 +34,5 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/-Git-3e394d?style=for-the-badge&logo=git">
 </div>
 <hr>
-
+  
   ![snake gif](https://github.com/Spanyk/Spanyk/blob/output/github-contribution-grid-snake.gif)
