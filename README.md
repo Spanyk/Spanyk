@@ -7,18 +7,18 @@
 
 - 🔭 Estudo na Fatec de Presidente Prudente.
 
-- 👨‍💻 Minha meta é me tornar um desenvolvedor web Fullstack
+- 🧑🏾‍💻 Minha meta é me tornar um desenvolvedor web Fullstack
 <br>
 
-<p align="center"> "👨🏾‍💻 <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...<i> 🏾‍💻" </p>
+<p align="center"> 🧑🏾‍💻 <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...<i> 💻 " </p>
 <br>
   
  <div align="center">
  <a  href="https://github.com/Spanyk/github-readme-stats">
-    <img width="420em"  src="https://github-readme-stats.vercel.app/api?username=Spanyk&title_color=fff&text_color=fff&show_icons=true&bg_color=12121e&icon_color=00bd97&include_all_commits&hide_title=true"/>
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Spanyk&title_color=fff&text_color=fff&show_icons=true&bg_color=12121e&icon_color=00bd97&include_all_commits&hide_title=true"/>
  </a>
 <a href="https://github.com/Spanyk/github-readme-stats">
-   <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&langs_count=10&bg_color=12121e&text_color=ffff&title_color=fff">
+   <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&langs_count=10&bg_color=12121e&text_color=ffff&title_color=fff">
 </a>
 </div>
 
