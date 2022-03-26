@@ -1,5 +1,4 @@
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Spanyk&repo=Spanyk&theme=react)](https:///github-readme-stats/Spanyk/Spanyk)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react&&include_all_commits=true)](https:///github-readme-stats/Spanyk/Spanyk/github-readme-stats)
 <h1 align="center"> Hello, I'm Paulo Augusto 🥸.<br> In the web Spanyk 🤖 </h1>
   
 
