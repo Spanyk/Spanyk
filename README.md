@@ -1,7 +1,8 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spanyk&repo=github-readme-stats&show_owner=true)](https://github.com/Spanyk/github-readme-stats)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Spanyk&repo=Spanyk&theme=react)](https://github.com/Spanyk/Spanyk)
 
 <h1 align="center"> Hello, I'm Paulo Augusto 🥸.<br> In the web Spanyk 🤖 </h1>
-<br>
+  
+
 
 - 👽 Atualmente 19y. 
 
@@ -33,3 +34,4 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/-Git-3e394d?style=for-the-badge&logo=git">
 </div>
 <hr>
+   ![Snake animation](https://github.com/spanyk/Spanyk/blob/output/github-contribution-grid-snake.svg)
