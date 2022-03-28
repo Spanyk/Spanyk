@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react&&include_all_commits=true)](https:///github-readme-stats/Spanyk/Spanyk/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react&show_icons=true)](https:///github-readme-stats/Spanyk/Spanyk/github-readme-stats)
 <h1 align="center"> Hello, I'm Paulo Augusto 🥸.<br> In the web Spanyk 🤖 </h1>
   
 
@@ -8,6 +8,7 @@
 - 🔭 Estudo na Fatec de Presidente Prudente.
 
 - 🧑🏾‍💻 Minha meta é me tornar um desenvolvedor web Fullstack
+
 <br>
 
 <p align="center"> 🧑🏾‍💻 <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...<i> 💻 " </p>
