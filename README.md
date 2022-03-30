@@ -1,7 +1,7 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react&show_icons=true)](https:///github-readme-stats/Spanyk/Spanyk/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react&show_icons=true)]
+
 <h1 align="center"> Hello, I'm Paulo Augusto 🥸.<br> In the web Spanyk 🤖 </h1>
   
-
 
 - 👽 Atualmente 19y. 
 
@@ -14,13 +14,17 @@
 <p align="center"> 🧑🏾‍💻 <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...<i> 💻 " </p>
 <br>
   
- <div align="center">
+ <div align="center" display="inline-block">
  <a  href="https://github.com/Spanyk/github-readme-stats">
-    <img width="420em" src="https://github-readme-stats.vercel.app/api?username=Spanyk&title_color=fff&text_color=fff&show_icons=true&bg_color=12121e&icon_color=00bd97&include_all_commits&hide_title=true"/>
+    <img display="inline" src="https://github-readme-stats.vercel.app/api?username=Spanyk&theme=react&include_all_commits&hide_title=true"/>
  </a>
-<a href="https://github.com/Spanyk/github-readme-stats">
-   <img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&langs_count=10&bg_color=12121e&text_color=ffff&title_color=fff">
+   
+   <br>
+   
+<a  href="https://github.com/Spanyk/github-readme-stats">
+   <img display="inline"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&theme=react">
 </a>
+   
 </div>
 
 ### 🛠 &nbsp;Tech Stack
