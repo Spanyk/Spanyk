@@ -14,12 +14,12 @@
 <p align="center"> 🧑🏾‍💻 <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...<i> 💻 " </p>
 <br>
   
-<div align="center" display="inline-block">
+<div align="center">
    <a  href="https://github.com/Spanyk/github-readme-stats">
-     <img display="inline" src="https://github-readme-stats.vercel.app/api?username=Spanyk&theme=react&include_all_commits&hide_title=true"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=Spanyk&theme=react&include_all_commits&hide_title=true"/>
   </a>
   <a  href="https://github.com/Spanyk/github-readme-stats">
-    <img display="inline"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&theme=react">
   </a> 
 </div>
 
