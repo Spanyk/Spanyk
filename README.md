@@ -16,10 +16,10 @@
   
 <div align="center">
    <a  href="https://github.com/Spanyk/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=Spanyk&theme=react&include_all_commits&hide_title=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Spanyk&theme=react&include_all_commits&hide_title=true"/>
   </a>
   <a  href="https://github.com/Spanyk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&theme=react">
+    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&theme=react">
   </a> 
 </div>
 
