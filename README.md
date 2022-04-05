@@ -10,6 +10,7 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-3e394d?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="git" src="https://img.shields.io/badge/-Git-3e394d?style=for-the-badge&logo=git">
 </div>
+<br>
 
 - 👽 Atualmente 19y. 
 
