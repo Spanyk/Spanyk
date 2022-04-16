@@ -1,22 +1,22 @@
-<!--![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react&show_icons=true)] -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react)](https://github.com/Spanyk/github-readme-stats)
 
-<h1 align="center"> Hello, I'm Paulo Augusto.<br> In the web Spanyk 🤖 </h1>
-<br>
+<h2 align="center">  🤯 Olá eu me chamo Paulo Augusto e Seja bem vindo 🎃 </h1>
+
 <div align="center">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-3e394d?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-3e394d?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3e394d?style=for-the-badge&logo=javascript&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/PYTHON-3e394d?style=for-the-badge&logo=Python&logoColor=white">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-3e394d?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-3e394d?style=for-the-badge&logo=html5">
+    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-3e394d?style=for-the-badge&logo=css3">
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3e394d?style=for-the-badge&logo=javascript">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/PYTHON-3e394d?style=for-the-badge&logo=Python">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-3e394d?style=for-the-badge&logo=c-sharp">
     <img align="center" alt="git" src="https://img.shields.io/badge/-Git-3e394d?style=for-the-badge&logo=git">
 </div>
 <br>
 
-- 👽 Atualmente 19y. 
+- 👽 Atualmente com 19 anos. 
 
 - 🔭 Estudo na Fatec de Presidente Prudente.
 
-- 🧑🏾‍💻 Dev. FullStack 
+- 🧑🏾‍💻 Minha meta é ser um Dev. FullStack.
 
 <br>
 
