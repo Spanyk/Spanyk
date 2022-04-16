@@ -1,6 +1,6 @@
 <!--![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react&show_icons=true)] -->
 
-<h1 align="center"> Hello, I'm Paulo Augusto 🥸.<br> In the web Spanyk 🤖 </h1>
+<h1 align="center"> Hello, I'm Paulo Augusto.<br> In the web Spanyk 🤖 </h1>
 <br>
 <div align="center">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-3e394d?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,21 +16,20 @@
 
 - 🔭 Estudo na Fatec de Presidente Prudente.
 
-- 🧑🏾‍💻 Minha meta é me tornar um desenvolvedor Web Fullstack
+- 🧑🏾‍💻 Dev. FullStack 
 
 <br>
 
-<p align="center"> 🧑🏾‍💻 <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...<i> 💻 " </p>
+<p align="center"> <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...  o esforço é recompensado no fim.<i> 💻 " </p>
+    
 <br>
   
-<div align="center">
-   <a  href="https://github.com/Spanyk/github-readme-stats">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Spanyk&theme=react&include_all_commits&hide_title=true"/>
-  </a>
-  <a  href="https://github.com/Spanyk/github-readme-stats">
-    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&theme=react">
-  </a> 
-</div>
-<hr>
-  
+<a href="https://github.com/Spanyk/github-readme-stats">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Spanyk&theme=react&include_all_commits&hide_title=true"/>
+</a>
+    
+<a  href="https://github.com/Spanyk/github-readme-stats">
+   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanyk&layout=compact&theme=react">
+ </a> 
+    
   ![snake gif](https://github.com/Spanyk/Spanyk/blob/output/github-contribution-grid-snake.svg)
