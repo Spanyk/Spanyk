@@ -1,14 +1,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react)](https://github.com/Spanyk/github-readme-stats)
 
-<h2 align="center">  🤯 Olá eu me chamo Paulo Augusto e Seja bem vindo 🎃 </h1>
+<h2 align="center"> Olá eu sou o Paulo <br> seja bem vindo aos meus repositórios 🎃 </h1>
 
-<div align="center">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-3e394d?style=for-the-badge&logo=html5">
-    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-3e394d?style=for-the-badge&logo=css3">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3e394d?style=for-the-badge&logo=javascript">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/PYTHON-3e394d?style=for-the-badge&logo=Python">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-3e394d?style=for-the-badge&logo=c-sharp">
-    <img align="center" alt="git" src="https://img.shields.io/badge/-Git-3e394d?style=for-the-badge&logo=git">
+<div align="center" padding="5px">
+    <img  height="35px" alt="html5" src="https://img.shields.io/badge/HTML5-3e394d?style=for-the-badge&logo=html5">
+    <img height="35px"  alt="Css3" src="https://img.shields.io/badge/CSS3-3e394d?style=for-the-badge&logo=css3">
+    <img height="35px"  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3e394d?style=for-the-badge&logo=javascript">
+    <img height="35px"  alt="Python" src="https://img.shields.io/badge/PYTHON-3e394d?style=for-the-badge&logo=Python">
+    <img height="35px"  alt="C#" src="https://img.shields.io/badge/C%23-3e394d?style=for-the-badge&logo=c-sharp">
+    <img height="35px"  alt="git" src="https://img.shields.io/badge/-Git-3e394d?style=for-the-badge&logo=git">
 </div>
 <br>
 
