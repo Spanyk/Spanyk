@@ -20,7 +20,7 @@
 
 <br>
 
-<p align="center"> <i> Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...  o esforço é recompensado no fim.<i> 💻 " </p>
+<p align="center"> <i> " Sempre tem algo novo a se aprender, a vontade é o que define até onde se pode ir...  o esforço é recompensado no fim.<i> 💻 " </p>
     
 <br>
   
