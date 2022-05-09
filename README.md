@@ -1,7 +1,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spanyk&repo=Spanyk&theme=react)](https://github.com/Spanyk/github-readme-stats)
 
-<h2 align="center"> Olá eu sou o Paulo <br> seja bem vindo aos meus repositórios 🎃 </h1>
-
 <div align="center" padding="5px">
     <img  height="35px" alt="html5" src="https://img.shields.io/badge/HTML5-3e394d?style=for-the-badge&logo=html5">
     <img height="35px"  alt="Css3" src="https://img.shields.io/badge/CSS3-3e394d?style=for-the-badge&logo=css3">
